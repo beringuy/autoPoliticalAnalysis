@@ -1,0 +1,32 @@
+
+Você é um sistema especializado em analisar as informações referentes a um tópico, obtido através de LDA, e identificar sobre qual assunto o tópico aborda.
+As informações que você deve analisar são as seguintes:
+Os termos mais relevantes para o tópico analisado são: 'economia', 'brasil', 'mundo', 'colega', 'oitar', 'asneira', 'google', 'grande', 'bom', '10', 'além', 'agora', 'colocar', 'deus', 'tribuna', 'sobre', 'subir', 'usar', 'coisa', 'lá', 'sabes', 'deputado_do_pt', 'dado', 'papagaiar', 'rápido', 'mentira', 'preciso', 'leer', 'ferramenta', 'encerrar', 'propagar', 'décimo', 'cair', 'existir', 'negócio',  estando eles em ordem de relevância.
+Os documentos identificados pelo sistema como os mais relevantes para o tópico em questão são os seguintes:
+Documento 1: "O SR. MAURICIO MARCON (Bloco/PODE - RS. Pela ordem. Sem revisão do orador.) - Muito obrigado, Presidente Charles Fernandes. Presidente Charles, ao Deputado do PT que me antecedeu e aos petistas eu gostaria de dizer que existe uma ferramenta, viu, colega Luiz Lima, chamada Google. Ela é muito usada por quem quer ter dados precisos, para não subir à tribuna e falar asneira. Como falam bobagem, meu Deus! É uma papagaiada! Eles pegam alguém que falou a mentira, e o negócio se propaga — não pesquisam, não leem, nada. Além de falar um monte de asneira sobre economia, o Deputado disse que o Brasil, colegas, agora é a oitava economia do mundo. Bom, no Google — basta colocar lá, é coisa rápida, com dois toquezinhos tu já sabes — há: "Brasil cai e encerra 2024 como 10ª maior economia do mundo". Décima, não é oitava. Parem de mentir! Obrigado, Presidente.";
+ Documento 2: "O SR. GILSON DANIEL (Bloco/PODE - ES. Pela ordem. Sem revisão do orador.) - Podemos, Sr. Presidente, vota "sim". O meu Estado do Espírito Santo sofre muito com feminicídio. Tudo o que for para combater, para poder ajudar as mulheres, o Podemos estará junto. Então, o nosso partido vota "sim", Sr. Presidente.";
+ Documento 3: "A SRA. ENFERMEIRA ANA PAULA (Bloco/PODE - CE. Pela ordem. Sem revisão da oradora.) - Presidente, o Podemos orienta "sim" à manutenção do texto, principalmente porque crimes contra a honra, calúnia, injúria e difamação são os crimes aos quais os profissionais da saúde e os profissionais da educação mais estão submetidos no exercício do trabalho, no exercício profissional. Por isso, somos, sim, favoráveis à manutenção do texto.";
+ Documento 4: "A SRA. ENFERMEIRA ANA PAULA (Bloco/PODE - CE. Pela ordem. Sem revisão da oradora.) - Presidente, o Podemos vota "sim", pela manutenção do texto, e esclarece que já existe sim, de fato, a tipificação do crime de desacato, mas nem por isso se deixou de praticar desacato contra os profissionais da saúde e contra professores. Por isso nós defendemos a manutenção do texto e uma pena muito mais grave para aqueles que cometem violência contra esses trabalhadores da educação e da saúde.";
+ 
+Com base nas informações fornecidas, qual é o assunto tratado pelo tópico, em síntese, e qual é a opinião geral em relação ao tema tratado?
+
+>>> >>> >>>
+
+## Análise do Tópico e Assunto
+
+Com base na análise dos termos relevantes e dos documentos associados, o tópico abordado é **a veracidade de informações sobre a economia do Brasil, com foco na crítica a declarações imprecisas e a disseminação de notícias falsas (fake news) nesse contexto.**
+
+**Assunto em Síntese:**
+
+O tópico central gira em torno da contestação de uma afirmação sobre a posição do Brasil no ranking mundial de economias. A discussão se concentra na necessidade de verificar informações, combater a desinformação e na importância de fontes confiáveis, como o Google, para obter dados precisos. Há uma crítica à propagação de mentiras e à falta de pesquisa por parte de alguns indivíduos.
+
+**Opinião Geral:**
+
+A opinião geral expressa nos documentos é **crítica e preocupada com a disseminação de informações falsas sobre a economia brasileira.** Os oradores defendem a importância de:
+
+*   **Verificação de fatos:** Enfatizam a necessidade de consultar fontes confiáveis para confirmar informações antes de divulgá-las.
+*   **Combate à desinformação:** Denunciam a propagação de mentiras e a falta de rigor na análise de dados econômicos.
+*   **Responsabilidade na comunicação:** Exortam os oradores a serem mais precisos e a evitar declarações imprecisas sobre a economia do país.
+*   **Importância da pesquisa:** Destacam a necessidade de investigar e analisar dados antes de tirar conclusões.
+
+Em resumo, o tópico é uma crítica à imprecisão e à desinformação na discussão sobre a economia do Brasil, com um forte apelo à verificação de fatos e ao uso de fontes confiáveis. A opinião geral é de que a disseminação de notícias falsas sobre a economia é prejudicial e deve ser combatida.
