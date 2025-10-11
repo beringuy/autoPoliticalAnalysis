@@ -1,0 +1,30 @@
+
+Você é um sistema especializado em analisar as informações referentes a um tópico, obtido através de LDA, e identificar sobre qual assunto o tópico aborda.
+As informações que você deve analisar são as seguintes:
+Os termos mais relevantes para o tópico analisado são: 'carreira', 'defesa_civil', 'acontecer', 'emenda', 'sr_presidente', 'dever', 'profissional', 'n', 'criar', 'diverso', '23', 'mimoso_do_sul', 'defesa', 'ministério', 'propor', 'início', 'governo_federal', 'relator', 'proteção', 'apresentar', 'brasil', 'tornar', 'rio_grande_do_sul', 'olhar', 'outro', 'nacional', 'criação', 'sim', 'líder_josé_guimarães', 'levála', 'existir', 'intenção', 'votar', 'âmbito', 'gostar',  estando eles em ordem de relevância.
+Os documentos identificados pelo sistema como os mais relevantes para o tópico em questão são os seguintes:
+Documento 1: "O SR. GILSON DANIEL (Bloco/PODE - ES. Pela ordem. Sem revisão do orador.) - Sr. Presidente, o Podemos vota "sim". Porém, gostaria de fazer um apelo ao Relator e também ao Líder José Guimarães. Fiz a Emenda nº 23, emenda essa que cria a carreira da proteção e defesa civil, carreira essa que já deveria ter sido criada, que já deveria existir no Brasil. Olhem o que está acontecendo no Rio Grande do Sul, o que está acontecendo no meu Espírito Santo, o que aconteceu em Mimoso do Sul. A carreira da Defesa Civil se tornou importante. O Governo Federal, hoje, na sua Defesa Civil, tem profissionais de diversas carreiras, de diversos Ministérios, de outros Estados e não tem um profissional da carreira da Defesa Civil. Por isso, a minha Emenda nº 23 foi apresentada com a intenção de propor o início da criação dessa carreira em âmbito nacional e de levá-la para Estados e Municípios, Sr. Presidente.";
+ Documento 2: "O SR. GILSON DANIEL (Bloco/PODE - ES. Pela ordem. Sem revisão do orador.) - Podemos, Sr. Presidente, vota "sim". O meu Estado do Espírito Santo sofre muito com feminicídio. Tudo o que for para combater, para poder ajudar as mulheres, o Podemos estará junto. Então, o nosso partido vota "sim", Sr. Presidente.";
+ Documento 3: "A SRA. ENFERMEIRA ANA PAULA (Bloco/PODE - CE. Pela ordem. Sem revisão da oradora.) - Presidente, o Podemos orienta "sim" à manutenção do texto, principalmente porque crimes contra a honra, calúnia, injúria e difamação são os crimes aos quais os profissionais da saúde e os profissionais da educação mais estão submetidos no exercício do trabalho, no exercício profissional. Por isso, somos, sim, favoráveis à manutenção do texto.";
+ Documento 4: "A SRA. ENFERMEIRA ANA PAULA (Bloco/PODE - CE. Pela ordem. Sem revisão da oradora.) - Presidente, o Podemos vota "sim", pela manutenção do texto, e esclarece que já existe sim, de fato, a tipificação do crime de desacato, mas nem por isso se deixou de praticar desacato contra os profissionais da saúde e contra professores. Por isso nós defendemos a manutenção do texto e uma pena muito mais grave para aqueles que cometem violência contra esses trabalhadores da educação e da saúde.";
+ 
+Com base nas informações fornecidas, qual é o assunto tratado pelo tópico, em síntese, e qual é a opinião geral em relação ao tema tratado?
+
+>>> >>> >>>
+
+## Análise do Tópico e Assunto
+
+Com base nos termos mais relevantes e nos documentos analisados, o tópico central é a **criação de uma carreira nacional de proteção e defesa civil no Brasil**.
+
+**Assunto:** A discussão gira em torno da necessidade de formalização e estruturação de uma carreira dedicada à proteção e defesa civil, com o objetivo de fortalecer a capacidade do país de lidar com eventos como desastres naturais (exemplificados pelos ocorridos no Rio Grande do Sul, Espírito Santo e Mimoso do Sul). A proposta busca criar um conjunto de profissionais qualificados, atuando em diferentes níveis (federal, estadual e municipal), e com formação diversificada, abrangendo diversos ministérios.
+
+**Opinião Geral:** A opinião geral expressa nos documentos é **fortemente favorável** à criação dessa carreira. Os oradores defendem a importância da proteção e defesa civil, argumentando que a criação de uma carreira específica é essencial para:
+
+*   **Atendimento a emergências:** Melhorar a resposta do país a desastres e eventos críticos.
+*   **Proteção da população:** Garantir a segurança e o bem-estar dos cidadãos em situações de risco.
+*   **Valorização profissional:** Reconhecer e valorizar o trabalho dos profissionais da área.
+*   **Continuidade e qualificação:** Assegurar a existência de profissionais qualificados e preparados para atuar na área.
+
+A proposta é apresentada como uma medida urgente e necessária, com o apoio de diferentes blocos políticos e profissionais da saúde e educação, que reconhecem a vulnerabilidade dessas áreas em situações de crise.
+
+Em resumo, o tópico aborda a proposta de criação de uma carreira nacional de proteção e defesa civil, e a opinião geral é de apoio à medida, vista como fundamental para a segurança e o bem-estar da população brasileira.

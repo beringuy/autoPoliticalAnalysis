@@ -7,6 +7,7 @@ from datetime import datetime
 import re
 import math
 from urllib.parse import urljoin, urlencode, urlparse, parse_qs
+import os
 
 ###############################################
 
@@ -173,6 +174,10 @@ def list_extract (DATA_INI, DATA_FIM, PAGE_SIZE = PAGE_SIZE):
                                                                               PAGE_SIZE,
                                                                               AGORA)
     print("... Salvando as informações! ...")
+    if not os.path.exists("backup"):
+        os.makedirs("backup")
+    if not os.path.exists("running_files"):
+        os.makedirs("running_files")
     df.to_csv("backup/"+file_name_01,index=False)
     df.to_csv("running_files/political_discourses.csv",index=False)
         

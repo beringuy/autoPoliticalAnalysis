@@ -1,0 +1,35 @@
+
+Você é um sistema especializado em analisar as informações referentes a um tópico, obtido através de LDA, e identificar sobre qual assunto o tópico aborda.
+As informações que você deve analisar são as seguintes:
+Os termos mais relevantes para o tópico analisado são: 'pedir', 'cidade', 'importante', 'joão_pessoa', 'ano', 'vexo', 'votação', 'nominal', 'casa', 'acidente', 'linhar', 'acontecer', 'vereador', 'receber', 'primeiro', 'forma', 'todo', 'sr_presidente', 'biririco', 'vier', 'comunidade', 'contribuir', 'data', 'entregar', 'onde', 'município', 'oportunidade', 'investimento', 'vida', 'último', 'político', 'recurso', 'cada', 'pessoa', 'três',  estando eles em ordem de relevância.
+Os documentos identificados pelo sistema como os mais relevantes para o tópico em questão são os seguintes:
+Documento 1: "O SR. MAURICIO MARCON (Bloco/PODE - RS. Pela ordem. Sem revisão do orador.) - Presidente Hugo Motta, de forma muito respeitosa, eu gostaria de pedir a atenção de V.Exa. Presidente, quando V.Exa. encerrou a votação anterior, eu, como foi captado nas imagens da Casa, peço votação nominal. Há esse áudio. Eu tenho certeza de que V.Exa. não ouviu, mas eu pedi nominal, ao microfone. Isso pode ser visto no vídeo da Casa. Eu queria pedir respeitosamente a V.Exa. que reconsiderasse a decisão, até porque é sabido, inclusive no Colégio de Líderes, que não havia unanimidade nessa matéria. Foi pedida a votação nominal. Existe a voz de um Deputado, eleito pelo povo, pedindo votação nominal. V.Exa., certamente, não ouviu. Eu gostaria que V.Exa., democrata que é, restabelecesse nesta Casa o respeito ao Parlamentar que — mesmo que o tenha feito de forma única — tenha pedido votação nominal, porque isso é captado nos áudios da Casa. Muito obrigado, Presidente.";
+ Documento 2: "O SR. GILSON DANIEL (Bloco/PODE - ES. Pela ordem. Sem revisão do orador.) - Sr. Presidente, quero fazer um registro importante. Estão aqui comigo três Vereadores de Linhares: o Vereador Evelson Lima, do Podemos; o Vereador Caio Ferraz Ramos, do Podemos; e o Vereador Professor Antônio Cesar, do União Brasil. Eles vieram a Brasília, primeiro, para participar da capacitação de Vereadores em seminários e discussões importantes que estão acontecendo aqui, o que os ajudará no mandato lá em Linhares. Eles também vieram ao Congresso Nacional, à Câmara dos Deputados, para visitar os gabinetes dos Deputados capixabas e pedir recursos para Linhares. Linhares é um Município importante do nosso Estado, governado também pelo partido Podemos, pelo nosso Prefeito Lucas. É importante para o Município ter Vereadores atuantes, como estes três Vereadores, que vieram a Brasília e vão levar frutos para esta cidade tão importante do Espírito Santo, que é a cidade de Linhares. Muito obrigado pela oportunidade. Um abraço aos nossos Vereadores! Que eles sejam bem-vindos à Casa do Povo! Obrigado, Presidente.";
+ Documento 3: "O SR. GILSON DANIEL (Bloco/PODE - ES. Pela ordem. Sem revisão do orador.) - Sr. Presidente, muito obrigado pela oportunidade. Queria fazer um registro importante sobre a cidade de Domingos Martins, mais precisamente na BR-262, no quilômetro da entrada do distrito de Biriricas, onde têm acontecido recorrentemente acidentes, acidentes fatais que têm atrapalhado, primeiro, o acesso à comunidade, mas também têm trazido muito transtorno e ceifado vidas naquele trevo. Por isso, já fiz a solicitação ao DNIT do Estado, a pedido do Vereador Daniel, de Domingos Martins, que tem falado constantemente dos acidentes que têm acontecido. Toda semana recebo vídeos de acidentes acontecendo. Então, peço a intervenção urgente do DNIT capixaba, do Superintendente Romeu, para que faça uma intervenção na entrada de Biriricas, atendendo ao pedido do Vereador Daniel, mas atendendo a toda a comunidade de Biriricas. É isso, Sr. Presidente, muito obrigado.";
+ Documento 4: "O SR. DR. VICTOR LINHALIS (Bloco/PODE - ES. Pela ordem. Sem revisão do orador.) - Presidente, com muita alegria, eu queria registrar que estamos recebendo hoje o Prefeito Arnaldo Borgo, de Vila Velha, cidade onde se iniciou o Estado do Espírito Santo. O Prefeito Arnaldo está mudando a história daquela cidade com uma gestão de muita austeridade, muito investimento e também muita capacidade de entrega. Estamos muito felizes por recebermos o nosso Prefeito Arnaldinho Borgo aqui neste Parlamento. Temos certeza de que, atuando juntos — Parlamento e Executivo —, conseguiremos entregar muitos avanços nas políticas públicas da cidade de Vila Velha. Muito obrigado.";
+ 
+Com base nas informações fornecidas, qual é o assunto tratado pelo tópico, em síntese, e qual é a opinião geral em relação ao tema tratado?
+
+>>> >>> >>>
+
+## Análise do Tópico e Assunto
+
+Com base na análise dos termos relevantes e dos documentos identificados como mais relevantes, o tópico central abordado é **Solicitações e Discussões Políticas em um Contexto Municipal, com foco em demandas da comunidade e infraestrutura**.
+
+**Assunto Principal:**
+
+O tópico gira em torno de questões políticas e administrativas que envolvem municípios, vereadores, prefeitos, votações, recursos e a relação entre o poder legislativo (Parlamento) e o executivo (prefeituras). Há uma forte ênfase em demandas da comunidade, como a segurança viária (acidentes) e o desenvolvimento local (investimentos).
+
+**Opinião Geral:**
+
+A opinião geral expressa nos documentos é **positiva e proativa**. Os oradores demonstram um desejo de engajamento político, de defender os interesses da comunidade e de buscar soluções para problemas locais. Há um tom de colaboração entre os diferentes níveis de governo (municipal, estadual e federal) e uma valorização do trabalho dos parlamentares e dos servidores públicos que atuam em prol do desenvolvimento dos municípios.
+
+**Evidências que sustentam a opinião:**
+
+*   **Pedidos de votação nominal:** Demonstram a preocupação com a transparência e a representatividade no processo legislativo.
+*   **Solicitação de recursos:** Reflete a busca por investimentos para melhorar a qualidade de vida e os serviços públicos nos municípios.
+*   **Discussão sobre acidentes:** Indica a preocupação com a segurança da comunidade e a necessidade de soluções para problemas de infraestrutura.
+*   **Elogios à gestão municipal:** Demonstram a valorização de prefeitos que atuam com austeridade, investimento e capacidade de entrega.
+*   **Ênfase na importância dos vereadores:** Reconhece o papel dos parlamentares na defesa dos interesses da população.
+
+Em resumo, o tópico aborda um cenário político municipal dinâmico, com foco em demandas da comunidade e busca por soluções através do engajamento político e da colaboração entre os diferentes níveis de governo. A opinião geral é de otimismo e proatividade, com um desejo de melhorar a qualidade de vida nos municípios.

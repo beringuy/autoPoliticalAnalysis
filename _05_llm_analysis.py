@@ -4,6 +4,7 @@ import pandas as pd
 from gensim.models import LdaModel
 from gensim import corpora
 import time
+import os
 
 ###############################
 
@@ -87,6 +88,8 @@ def llm_analysis (dataframe, lda_top_n_docs_p_topic, lda_model, framing, partido
                 
         analises.append(resposta)
         
+        if not os.path.exists("running_files/analysis"):
+            os.makedirs("running_files/analysis")
         with open(f"running_files/analysis/analysis_partido {partido}_framing {framing}_topico {topico_id}.txt", "w") as text_file:
             text_file.write(prompt)
             text_file.write("\n>>> >>> >>>\n\n")

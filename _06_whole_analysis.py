@@ -75,6 +75,8 @@ for tmp_partido in partidos:
         print (">>> TEMPO: %s segundos para a geração de análise pelo SLM <<<" % (time.time() - main_start_time))
         print("=== === === === === === === === === === === === === === ===")
         
+        if not os.path.exists("running_files/final_analysis"):
+            os.makedirs("running_files/final_analysis")
         with open("running_files/final_analysis/{}.txt".format(tmp_partido+"_"+current_framing), "w") as text_file:
             text_file.write(resposta)
         
